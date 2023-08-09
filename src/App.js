@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Home from './component/Home';
 import AboutUs from './component/AboutUs';
+import ContactUs from './component/ContactUs';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
 
     <Home/>  
     <AboutUs/>
+    <ContactUs/>
       
     </div>
   );
